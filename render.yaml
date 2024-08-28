@@ -1,6 +1,7 @@
-services:
+
+[.services:
   - type: web
-    name: yuki-math-blog
+    name: yosioha-zensekainoaidoru
     env: python
     region: Oregon
     plan: free
