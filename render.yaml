@@ -1,7 +1,7 @@
 
 [.services:
   - type: web
-    name: yosioha-zensekainoaidoru
+    name: yosioh
     env: python
     region: Oregon
     plan: free
